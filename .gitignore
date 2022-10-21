@@ -1,6 +1,7 @@
 # exclude manually
 report/3DCC/assets
 report/3DCC/sample_data
+ppt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
